@@ -1,0 +1,16 @@
+.search {
+  display: flex;
+  margin: 15px 0;
+  background-color: #AB72F8;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.searchBox{
+  width: 100rem;
+  color: white;
+}
+.search-btn{
+  width: 20%;
+  background-color: #AB72F8;
+}
