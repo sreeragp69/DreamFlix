@@ -17,7 +17,7 @@ DreamFlix is a movie and series search website created using React.js and Materi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/dreamflix.git
+   git clone https://github.com/sreeragp69/dreamflix.git
    ```
 2. Navigate into the project directory:
    ```
